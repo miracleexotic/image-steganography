@@ -5,7 +5,7 @@
 ### Install
 git clone
 ```console
-git clone https://github.com/miracleexotic/image-steganography.git
+$ git clone https://github.com/miracleexotic/image-steganography.git
 ```
 
 with **setuptools**
