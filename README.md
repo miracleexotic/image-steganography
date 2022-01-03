@@ -1,11 +1,11 @@
 # Image Steganography
-
-**Note**: Simple image steganography by python3
+**Note**: Simple image steganography make by python3
 
 ### Install
 git clone
 ```console
 $ git clone https://github.com/miracleexotic/image-steganography.git
+$ cd image-steganography
 ```
 
 with **setuptools**
@@ -34,7 +34,7 @@ Commands:
 
 with **python3**
 ```console
-$ python Steganography.py
+$ python /path/to/image-steganography/Steganography.py
 Usage: steganography [OPTIONS] COMMAND [ARGS]...
 
 Options:
