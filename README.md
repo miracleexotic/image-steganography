@@ -1,7 +1,7 @@
 # Image Steganography
 
----
 **Note**: Simple image steganography make by python3
+---
 
 ### Install
 git clone
